@@ -2,7 +2,7 @@
   "name": "0x02-es6_classes",
   "version": "1.0.0",
   "description": "- How to define a Class - How to add methods to a class - Why and how to add a static method to a class - How to extend a class from another - Metaprogramming and symbols",
-  "main": "1-main.js",
+  "main": "2-main.js",
   "type": "module",
   "dependencies": {
     "acorn": "^8.10.0",
@@ -247,7 +247,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node 1-main.js"
+    "dev": "node 2-main.js"
   },
   "author": "",
   "license": "ISC"
