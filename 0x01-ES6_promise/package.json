@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
-    "dev": "node 100-main.js"
+    "dev": "node 1-main.js"
   },
   "dependencies": {},
   "devDependencies": {
